@@ -3,7 +3,7 @@ Soma = 0
 Masculino = 0
 Feminino = 0
 
-for i in range(4):
+for i in range(15):
     altura = float(input("Digite a altura: "))
     genero = input("Digite o genero: ").lower()
 
